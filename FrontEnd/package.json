@@ -9,7 +9,7 @@
     "cryptr": "^4.0.2",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.9.0",
     "react-dnd": "^9.4.0",
     "react-dnd-html5-backend": "^9.4.0",
